@@ -1,0 +1,3 @@
+Pastikan Python telah terinstall
+Install semua module dengan pip, misal pip install numpy
+Jika muncul tulisan pip is no recognize, edit sistem environment variabel dan tambahkan path C:\Users\[namauser]\AppData\Local\Programs\Python\Python310\Scripts
